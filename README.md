@@ -8,9 +8,13 @@
 
 
 
-Screenshot: <div>
-  <img src="scheduler .jpg" width="500px"/> 
+Screenshot: 
+
+<div>
+  <img src="/Assets/scheduler .jpg" width="500px"/> 
 </div>
+
+
 
 
 Link: 
