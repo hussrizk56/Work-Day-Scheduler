@@ -15,6 +15,4 @@ Screenshot:
 </div>
 
 
-
-
-Link: 
+Link:  https://hussrizk56.github.io/Work-Day-Scheduler/
