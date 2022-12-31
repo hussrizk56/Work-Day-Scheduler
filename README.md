@@ -1,6 +1,6 @@
 # Work-Day-Scheduler
 
-For this week's assignment we were to create a website for a simple work day calendar by hour. The application used HTML, CSS, JS powered by jQuery. 
+For this week's assignment we were to create a website for a simple work day calendar by hour. The application used HTML, CSS, JS powered by jQuery. You can block off time for your calendar for items to do. Time that has passed is in grey present is in green and red
 
 
 ## Steps Taken:
